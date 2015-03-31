@@ -2,3 +2,5 @@ Hello World!
 Learning Git is fun.
 Git is a distributed version control system.
 Git is very fast.
+Git is flexiblie.
+With Git, you can commit even when you are not online.
